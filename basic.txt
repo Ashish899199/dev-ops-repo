@@ -1,11 +1,3 @@
 Q Which was your first job?
 
 ans Junior software developer
-
-Q Which is your favorite book
-
-Ans Core java black book
-
-Q In which bank did you first  open your account
-
-State bank of india
