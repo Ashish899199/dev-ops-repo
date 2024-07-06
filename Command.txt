@@ -1,0 +1,36 @@
+1) Command for Uploading a file in HDFS
+Hadoop fs –put
+
+This command is used to upload a file from the local file system to HDFS. Multiple files can be uploaded using this command by separating the filenames with a space.
+
+2) Command for Downloading a file in HDFS
+Hadoop fs –get
+
+This command is used to download a file from the local file system to HDFS. Multiple files can be downloaded using this command by separating the filenames with a space.
+
+3) Command for Viewing the Contents of a file
+Hadoop fs –cat
+
+4) Command for Moving Files from Source to Destination
+Hadoop fs –mv
+
+5) Command for Removing a Directory or File in HDFS
+Hadoop fs –rm
+
+Note- To remove a directory, the directory should be empty before using the rm command.
+
+6) Command for Copying files from local file system to HDFS
+Hadoop fs –copyFromLocal 
+
+7) Command to display the length of a file
+Hadoop fs –du
+
+8) Command to view the content of a directory
+Hadoop fs –ls
+
+9) Command to create a Directory in HDFS
+Hadoop fs –mkdir
+
+10) Command to display the first few lines of a file
+Hadoop fs –head 
+
