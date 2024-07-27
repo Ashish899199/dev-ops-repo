@@ -21,6 +21,7 @@ public class StudentController {
 	
 	@GetMapping("/getAll")
 	public List<Student> getAllStudent(){
+		Sysotem.out.println("Get student List");
 		return serviceImpl.getAllStudents();
 	}
 	
